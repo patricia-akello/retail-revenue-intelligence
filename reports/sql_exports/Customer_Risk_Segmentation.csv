@@ -1,0 +1,5 @@
+"customer_segment_risk","customer_count","revenue","profit","profit_margin_percentage"
+"Loss Making Customer","129","215101.21","-35809.81","-16.65"
+"Low Margin Customer","35","73069.54","1692.93","2.32"
+"Standard Customer","430","742579.57","132659.08","17.86"
+"High Value Customer","199","1266450.75","187855.59","14.83"
